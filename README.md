@@ -10,8 +10,10 @@ Jeremy.h , Ricky.I
         </style>
     </head>
     <body>
-
+    <a href="http://sneakerbardetroit.com/wp-content/uploads/2016/08/lebron-soldier-10-gold-medal-white-gold.jpg
+    ">Look Here</a>
     <img src="http://sneakerbardetroit.com/wp-content/uploads/2016/08/lebron-soldier-10-gold-medal-white-gold.jpg" height="200" width="200">
+    <a href="http://www.lebronxiallshoes.com/images/lebron/Hot-Nike-Air-Max-Lebron-10-X-Plus-USA-White-Red-Navy-Gold-Dunk.jpg">Look Here</a>
     <img src="http://www.lebronxiallshoes.com/images/lebron/Hot-Nike-Air-Max-Lebron-10-X-Plus-USA-White-Red-Navy-Gold-Dunk.jpg" length="150" width="150">
     <p>Sneakers Available</p>
     </body>
